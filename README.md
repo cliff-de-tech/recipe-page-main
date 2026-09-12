@@ -28,8 +28,8 @@ This project is my solution to the Frontend Mentor Recipe page challenge. I buil
 
 ### Links
 
-- Solution URL: [Repo]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [This Repo]
+- Live Site URL: [Here](https://cliff-de-tech.github.io/recipe-page-main/)
 
 ## My process
 
